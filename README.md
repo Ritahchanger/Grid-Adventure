@@ -1,7 +1,7 @@
-# Console Dungeon Adventure — Game Summary
+# Grid Warrior — Game Summary
 
 ## Overview  
-Console Dungeon Adventure is a minimalist, text-based rogue-like game implemented in C++. The player navigates a grid-based dungeon, avoiding walls and engaging in strategic combat with multiple enemies. The game runs entirely in the terminal, leveraging low-level input handling for smooth real-time movement using both WASD and arrow keys.
+Grid Warriore is a minimalist, text-based rogue-like game implemented in C++. The player navigates a grid-based dungeon, avoiding walls and engaging in strategic combat with multiple enemies. The game runs entirely in the terminal, leveraging low-level input handling for smooth real-time movement using both WASD and arrow keys.
 
 ## Key Features  
 - **Dynamic Map Display:** Centrally aligned dungeon map rendered with clear symbols for player (`@`), enemies (`E`), walkable tiles (`.`), and walls (`#`).  
